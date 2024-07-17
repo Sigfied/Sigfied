@@ -2,7 +2,6 @@
  - Hello, I'm Sigfied
  - Backend developer
 
-I am currently involved in the development and maintenance of the lencet open source library
 
 ### Tag
 - 💻 A Java trainee who has practiced for two and a half years
