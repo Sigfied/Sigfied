@@ -4,12 +4,12 @@
 
 > I like building systems, tools, and ideas into something real.
 
-I build full-stack products, AI features, and workflow tooling with a bias toward clear systems and useful interfaces.
+I build data platforms, analytics systems, and workflow tooling with a bias toward clear architecture and useful interfaces.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0F172A)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-111827?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 ## Selected Work
 
@@ -27,9 +27,9 @@ I used Kudu as a real-time query layer, built schema evolution and partition gov
 
 ## What I'm Into
 
-- Full-stack products where system design and UX reinforce each other.
-- AI features that reduce manual work instead of adding noise.
-- Developer workflows, automation, and tools with a clear payoff.
+- Analytics platforms where data models and product surfaces evolve together.
+- Data infrastructure that treats storage, compute, and metadata as one system.
+- Workflow tooling and automation that remove repeated operational work.
 
 ## How I Think
 
@@ -39,7 +39,7 @@ I used Kudu as a real-time query layer, built schema evolution and partition gov
 
 ## Current Toolkit
 
-Mostly TypeScript and React on the surface, with Node.js, Python, Git, and Docker in the workflow.
+Mostly Kotlin, Python, SQL, Kafka, Flink, Spark, and StarRocks, with product-facing work where the platform needs it.
 
 ## Links
 
