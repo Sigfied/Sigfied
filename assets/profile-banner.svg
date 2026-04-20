@@ -48,7 +48,7 @@
     <text x="0" y="0" font-size="34" font-weight="600" letter-spacing="0.2">Hi, I’m Sigfied.</text>
     <text x="0" y="64" font-size="62" font-weight="700" letter-spacing="-0.7">I like building systems, tools,</text>
     <text x="0" y="126" font-size="62" font-weight="700" letter-spacing="-0.7">and ideas into something real.</text>
-    <text x="0" y="182" font-size="25" font-weight="400" fill="#b6c7db">Full-stack products, AI features, workflow tooling.</text>
+    <text x="0" y="182" font-size="25" font-weight="400" fill="#b6c7db">Data platforms, analytics systems, workflow tooling.</text>
   </g>
 
   <g opacity="0.95" transform="translate(1030 128)">
