@@ -13,17 +13,17 @@ I build full-stack products, AI features, and workflow tooling with a bias towar
 
 ## Selected Work
 
-### [Bucket World Frontend](https://github.com/Sigfied/Bucket-World-Frontend)
-A game-facing frontend built around gameplay-state coordination, interaction flow, and predictable UI behavior.
-I used it to shape how volatile client state stays readable, stable, and easy to extend.
+### Polars Analytics Platform
+An internal analytics platform I led end to end, covering real-time warehousing, analysis models, backend services, metadata, and frontend analysis pages.
+I designed it as a full product system rather than a single query service, with StarRocks as both the real-time warehouse base and the online analysis engine.
 
-### [JieJieZiBlog](https://github.com/Sigfied/JieJieZiBlog)
-A lightweight publishing system for writing, layout, and maintaining a personal web space.
-I cared most about keeping the authoring workflow simple without letting the structure turn fragile.
+### Iceberg + Hudi Lakehouse
+A modern lakehouse pipeline for event data and user attributes, built around Kafka, Flink, Iceberg, Hudi, PostgreSQL, and Spark maintenance jobs.
+I split event and user data by access pattern, added metadata governance into the ingestion path, and treated long-term table maintenance as part of the architecture.
 
-### [wx-chat-analyze](https://github.com/Sigfied/wx-chat-analyze)
-A chat analysis tool for extracting searchable structure from noisy conversation logs.
-I built it to cut manual review time and make long message histories easier to inspect.
+### HDFS + Kudu + Hive Real-Time Pipeline
+A full-chain data foundation from service logs to Kafka, Flink, Kudu, Spark, and Hive/HDFS for near-real-time querying and offline warehousing.
+I used Kudu as a real-time query layer, built schema evolution and partition governance into the pipeline, and connected streaming and offline analytics into one system.
 
 ## What I'm Into
 
