@@ -2,7 +2,7 @@
 
 I like building systems, tools, and ideas into something real.
 
-I build full-stack products, AI features, and workflow tooling with a bias toward clear systems and useful interfaces.
+I build data platforms, analytics systems, and workflow tooling with a bias toward clear architecture and useful interfaces.
 
 ## Things I Build
 
@@ -12,10 +12,10 @@ I build full-stack products, AI features, and workflow tooling with a bias towar
 
 ## What I'm Into
 
-- Full-stack products where system design and UX reinforce each other.
-- AI features that reduce manual work instead of creating noise.
-- Developer workflows, automation, and tools with a clear payoff.
-- Interfaces that make complex operations feel direct.
+- Analytics platforms where data models and product surfaces evolve together.
+- Data infrastructure that treats storage, compute, and metadata as one system.
+- Workflow tooling and automation that remove repeated operational work.
+- Interfaces that make complex operational systems easier to use.
 
 ## How I Think
 
