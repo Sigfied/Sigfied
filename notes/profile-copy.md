@@ -6,9 +6,9 @@ I build full-stack products, AI features, and workflow tooling with a bias towar
 
 ## Things I Build
 
-- Bucket World Frontend - A game-facing frontend focused on interaction flow, interface logic, and feel.
-- JieJieZiBlog - A personal publishing space for writing, layout, and web craft.
-- wx-chat-analyze - A small analysis tool for turning chat history into something searchable and easier to read.
+- Polars Analytics Platform - An end-to-end analytics platform spanning real-time warehousing, analysis models, backend services, metadata, and frontend analysis pages.
+- Iceberg + Hudi Lakehouse - A modern lakehouse architecture for event data, user attributes, metadata governance, and long-term table maintenance.
+- HDFS + Kudu + Hive Real-Time Pipeline - A full-chain data system connecting service logs, streaming computation, near-real-time querying, and offline warehousing.
 
 ## What I'm Into
 
